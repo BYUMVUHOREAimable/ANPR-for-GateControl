@@ -51,3 +51,7 @@ while True:
 cap.release()
 print(f'All frames saved in {frames_folder}.')
 
+"""
+Type this in the terminal to run the program: python name_offile.py "path of your video" then enter
+python tool01__get_frames_from_movie.py "\videos\In-Transit Vehicle Plate Captures [001].mp4"
+"""
